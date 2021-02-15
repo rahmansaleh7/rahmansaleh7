@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'am Iqbal A
+---
+- 💻 I am a developer odoo (ERP)
+- 🗄️ All of my projects are available at [HERE](https://github.com/rahmansaleh7)
+
 
 <!--
 **rahmansaleh7/rahmansaleh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
