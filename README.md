@@ -1,5 +1,10 @@
 ### Hi 👋, I'am Iqbal A
 ---
+I am a Software Engineer, Programming is my passion, the programming field that I am currently working on is Python, ERP, Odoo, PHP, Javascript ..
+I would love to be able to create software or systems that can be useful and facilitate your work ..
+
+If you need my services please contact me via email or DM on Twitter ..
+
 - 💻 I am a developer odoo (ERP)
 - 🗄️ All of my projects are available at [HERE](https://github.com/rahmansaleh7)
 
