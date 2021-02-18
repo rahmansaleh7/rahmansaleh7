@@ -1,5 +1,10 @@
 ### Hi 👋, I'am Iqbal A
 ---
+[![Visits Badge](https://badges.pufler.dev/visits/rahmansaleh7/rahmansaleh7)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/rahmansaleh7)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/rahmansaleh7)](https://badges.pufler.dev)
+
+
 I am a Software Engineer, Programming is my passion, the programming field that I am currently working on is Python, ERP, Odoo, PHP, Javascript ..
 I would love to be able to create software or systems that can be useful and facilitate your work ..
 
