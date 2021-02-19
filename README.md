@@ -13,7 +13,9 @@ If you need my services please contact me via email or DM on Twitter ..
 - 💻 I am a developer odoo (ERP)
 - 🗄️ All of my projects are available at [HERE](https://github.com/rahmansaleh7)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmansaleh7&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmansaleh7&layout=compact)](https://github.com/rahmansaleh7/github-readme-stats)
+![Iqbal A. GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmansaleh7&show_icons=true&theme=tokyonight)
+
 
 
 <!--
