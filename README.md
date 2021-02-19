@@ -13,6 +13,8 @@ If you need my services please contact me via email or DM on Twitter ..
 - 💻 I am a developer odoo (ERP)
 - 🗄️ All of my projects are available at [HERE](https://github.com/rahmansaleh7)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmansaleh7&show_icons=true&theme=tokyonight)
+
 
 <!--
 **rahmansaleh7/rahmansaleh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
